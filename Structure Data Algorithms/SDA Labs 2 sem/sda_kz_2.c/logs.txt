@@ -1,0 +1,12 @@
+Main started.
+Common initialization started.
+Common initialization finished.
+F1_1 started
+F2 started
+F2 finished
+F1_1 finished
+F1_2 started
+F3 started
+F3 finished
+F1_2 finished
+Main finished.
